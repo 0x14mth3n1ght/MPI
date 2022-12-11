@@ -1,0 +1,2 @@
+/home/dureaud/PUBLIC/td1_mpi_collective/traitement_image_coll/sequentiel
+git clone https://gitlab.com/ensiie-mpi/td1_mpi_collective.git
