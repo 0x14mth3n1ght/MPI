@@ -26,4 +26,4 @@ sudo pacman -S slurm-llnl
 ```
 # Exemple
 
-![Alt text](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
+![exemple](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
