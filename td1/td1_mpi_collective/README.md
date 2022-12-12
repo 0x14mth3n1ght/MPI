@@ -39,5 +39,3 @@ Ici 4 cœurs (`-n 4`)) répartis sur 2 nœuds (`-N 2`) :
 hpc01> srun -n 4 -N 2  ./monprog.exe
 hpc01> srun -n 2      ./monprog.exe
 ```
-
-![Alt text](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
