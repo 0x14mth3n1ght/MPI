@@ -40,4 +40,4 @@ hpc01> srun -n 4 -N 2  ./monprog.exe
 hpc01> srun -n 2      ./monprog.exe
 ```
 
-![exemple](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
+![exemple](mpi.png)
