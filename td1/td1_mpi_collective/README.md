@@ -32,7 +32,7 @@ hpc01> squeue
       JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
       12882    calcul     bash  dureaud  R       0:04      2 hpc[04-05]
 ```
-![Alt text](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
+
 ## Exécuter le programme MPI en contrôlant l’allocation de la ressource 
 Ici 4 cœurs (`-n 4`)) répartis sur 2 nœuds (`-N 2`) :
 ```
@@ -40,3 +40,4 @@ hpc01> srun -n 4 -N 2  ./monprog.exe
 hpc01> srun -n 2      ./monprog.exe
 ```
 
+![Alt text](https://github.com/0x14mth3n1ght/MPI/edit/master/td1/td1_mpi_collective/mpi.png)
